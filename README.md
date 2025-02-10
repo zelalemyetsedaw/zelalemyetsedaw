@@ -64,7 +64,11 @@ Graduated with a degree in Computer Science, gaining a strong foundation in algo
 ---
 
 ## 💼 Professional Experience
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zelalemyetsedaw&show_icons=true&locale=en&layout=compact" alt="zelalemyetsedaw" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zelalemyetsedaw&show_icons=true&locale=en" alt="zelalemyetsedaw" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zelalemyetsedaw&" alt="zelalemyetsedaw" /></p>
 <!--
 **zelalemyetsedaw/zelalemyetsedaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
